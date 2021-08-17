@@ -3,17 +3,14 @@
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
 
+<div>
+   <a href="https://github.com/BoBSZIN">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bobszin&count_private=true&show_icons=true&hide=stars&theme=radical"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobszin&layout=compact&theme=radical"/>
+</div>
 
-   <img src="https://github-readme-stats.vercel.app/api?username=bobszin&count_private=true&show_icons=true&hide=stars&theme=react&line_height=30" />
-
-  <a href="https://discord.com/users/804711585419362322">
-    <img src="https://img.shields.io/badge/Bebeuh-2F80ED?style=flat-square&labelColor=2F80ED&logo=discord&logoColor=FFFFFF">
-  </a>
-
-<p>
-   
-**Experiences**
-
-- HTML 
-- CSS
-- JavaScript
+   <div style="display: inline_block"><br>
+      <img align="center" alt="Gabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   </div>
